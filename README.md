@@ -19,7 +19,7 @@ This data engineering project focuses on real-time stock market data processing.
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
 
-Here is the dataset used in the video - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+Here is the dataset used in the video - https://github.com/Siva-Sanam/Stock_Market_DataPipeline_Using_ApacheKafka-AWSGlue_and_Athena/blob/main/stockmarket_data.csv
 
 
 
